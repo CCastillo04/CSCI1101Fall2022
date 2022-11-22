@@ -1,0 +1,1 @@
+SELECT * FROM games WHERE first_release_date BETWEEN '2000-01-01 00:00:00' and '2000-12-31 23:59:59' ORDER by name;
